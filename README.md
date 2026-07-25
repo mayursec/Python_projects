@@ -1,2 +1,2 @@
-# Games
-Personal workshop for building python projects
+# Python Projects
+Personal workshop for building mini python projects
