@@ -8,6 +8,7 @@ This repository contains the projects I build while learning Python. It includes
 
 - 🎮 Number Guessing Game
 - ✂️ Rock Paper Scissors
+- Countdown Timer
 - ➕ More projects will be added as I continue learning.
 
 ## 🎯 Purpose
